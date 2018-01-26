@@ -1,1 +1,2 @@
-# gossip
+### Gossip
+ ## A simple chat application
